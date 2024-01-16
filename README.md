@@ -1,1 +1,1 @@
-# Ti-Basic-TNS
+# Ti-Nspire Ti-Basic
